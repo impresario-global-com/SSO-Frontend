@@ -1,0 +1,91 @@
+@layer tailwind {
+  @tailwind base;
+}
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  input[type='number']::-webkit-inner-spin-button,
+  input[type='number']::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  i {
+    font-style: normal;
+    color: #ff9653;
+  }
+}
+
+/* footer */
+.footer {
+  margin-top: auto;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 12px;
+}
+/*  */
+
+.cursor-effect {
+  border-radius: 40px;
+  border-image: linear-gradient(
+    180deg,
+    #ec1380 0%,
+    #faae2a 31.25%,
+    #90d1bd 53.12%,
+    #9747ff 75.52%,
+    #f6ed59 100%
+  );
+  border-image-slice: 1;
+}
+
+.animate-blink {
+  animation: blink 0.5s linear infinite alternate;
+  animation-delay: 11s;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+p .Typewriter {
+  display: inline;
+}
+
+@keyframes marque-y {
+  0% {
+    transform: translateY(0%);
+  }
+  100% {
+    transform: translateY(-50%);
+  }
+}
+
+.animate-marquee-y {
+  animation: marque-y 100s linear infinite;
+}
+
+.swiper {
+  width: 240px;
+  height: 320px;
+}
+
+.swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}

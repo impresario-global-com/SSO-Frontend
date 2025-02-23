@@ -1,0 +1,32 @@
+{
+    "welcome": "स्वागत है!",
+    "discover_potential": "क्या आप अपनी सामाजिक समर्थक क्षमता को खोजने के लिए तैयार हैं?",
+    "instructions_1": "आपके सामने वक्तव्यों की एक श्रृंखला प्रस्तुत की जाएगी। कृपया वह विकल्प चुनें जो आपको सबसे ज्यादा पसंद आए।",
+    "instructions_2": "कोई गलत या सही जवाब नहीं है। आपकी प्रतिक्रियाएँ गोपनीय रखी जाएंगी। आपका K.A.R.M.A. स्कोर 1 से 5 के पैमाने पर मूल्यांकन किया जाएगा।",
+    "start_button": "आरंभ करें",
+    "cause_novice_title": "Cause Novice",
+    "cause_novice_caption": "परिवर्तन लाने की आपकी इच्छा सीखने की आपकी महान क्षमता का संकेत है। आपकी ताकत सीखने और नेटवर्किंग में है।",
+    
+    "completed_scale_title": "आपने मापक को सफलतापूर्वक पूरा कर लिया है!",
+    "completed_scale_header": "वाह! बधाईयाँ!",
+    "completed_scale_nextButtonText": "अपनी K.A.R.M.A. प्रोफाइल को अनलॉक करें",
+    "completed_scale_message": "अपना परिणाम देखने के लिए तैयार हैं?",
+
+    "almost_there_title": "आपका सर्वे 90% पूरा हो चुका है।",
+    "almost_there_header": "शानदार!",
+    "almost_there_message": "साथ में दिखाए गए आपके चालक और मूल्य वास्तव में प्रेरणादायक हैं।\nआगे क्या है?\nअपने अनुभवों को समझने के लिए अंतिम 10% करें!",
+    "almost_there_nextButtonText": "अगला कदम",
+    
+    "great_going_title": "बहुत अच्छा कर रहे हैं, आप 65% सर्वे पूरा कर चुके हैं!",
+    "great_going_header": "बढ़िया!",
+    "great_going_message": "यही वो जगह है जहां आपको अपना समूह (tribe), अपना लक्ष्य (cause), और अपना उद्देश्य (purpose) मिल सकता है।\nऔर यह सब एक शानदार अनुभव के साथ जुड़ा हुआ है।क्या आपको बदलाव लाने का वो जूनून याद है?\nआइए देखें आगे क्या है...",
+    "great_going_nextButtonText": "अगला कदम",
+    "fas-fac-welcome": "Welcome to",
+    "fas-fac": "FAS | FAC!",
+    "got-a-minute": "Got a minute?",
+    "fas-fac-description": "Got a minute? Perfect! By filling out this short survey, you’ll not only get to know your Civic Empathy profile but also directly contribute to a cause that matters. Yup, it's that easy.",
+    "sipping-coffee": "Think of it as saving the world while sipping your coffee.",
+    "cause-selection": "Select a cause",
+    "cause-selection-des": "Share a few details about yourself to make your experience better",
+    "proceed": "Proceed"
+}

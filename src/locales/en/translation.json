@@ -1,0 +1,38 @@
+{
+    "welcome": "Welcome!",
+    "discover_potential": "Ready to discover your prosocial potential?",
+    "instructions_1": "There will be a series of statements presented to you. Please pick the option that resonates most with you.",
+    "instructions_2": "There is no wrong or right answer. Your responses will be kept confidential. Your K.A.R.M.A. score will be rated on a scale of 1 to 5.",
+    "start_button": "Let's Start",
+    "cause_novice_title": "Cause Novice",
+    "cause_novice_caption": "Your desire to make a difference indicates your great potential for learning. Your strength lies in learning and networking.",
+
+    "completed_scale_title": "You Did Your Bit!",
+    "completed_scale_header": "Woohoo!",
+    "completed_scale_nextButtonText": "Continue",
+    "completed_scale_message": "Ready to see your Civic Empathy Quotient?",
+
+    "almost_there_title": "Almost there, 90% of the survey is complete now.",
+    "almost_there_header": "woop woop!",
+    "almost_there_message": "Your drivers and values are truly inspiring, shown alongside.\nWhat's next?\nLet's do the final 10% to understand your experiences!",
+    "almost_there_nextButtonText": "Next Step",
+    
+    "great_going_title": "Great going, you are 65% there!",
+    "great_going_header": "YAY!",
+    "great_going_message": "You are in for for a lot of surprising yet karmic give-aways, So give your best shot!",
+    "great_going_nextButtonText": "Next Step",
+    "fas-fac-welcome": "Welcome to",
+    "fas-fac": "FAS | FAC!",
+    "got-a-minute": "Got a minute?",
+    "fas-fac-description": "Got a minute? Perfect! By filling out this short survey, you’ll not only get to know your Civic Empathy profile but also directly contribute to a cause that matters. Yup, it's that easy.",
+    "sipping-coffee": "Think of it as saving the world while sipping your coffee.",
+    "fas-fac-start": "Start Now",
+    "cause-selection": "Select a cause",
+    "cause-selection-des": "Share a few details about yourself to make your experience better",
+    "proceed": "Proceed",
+    "cause-selected": "Cause selected :",
+    "edit": "Edit",
+    "pledge-title1": "How much money you can pledge",
+    "pledge-title2": "for the cause?",
+    "pledge-des": "Please select an amount you would like to contribute for teh cause to take the survey"
+}
